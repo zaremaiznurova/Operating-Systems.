@@ -1,3 +1,4 @@
 Starting Computers and Mobile Devices. When the phone or computer is off, you will have to press a power button to turn it on.
 Sometimes you will have to restar your phone or computer. It includes, when you download a new program, or when you are having some connection
 problems, or you phone or computer works very slow. 
+Updating Operating System Software. Many programds and operating systems has a automatic update feature that provides new features or corrections to the program. Operating systems automaticaly checks for new updates are available, then updates all the available features, including fixing program errors, improving program functionality, expanding program features, enhansing security and modifying device drivers.
